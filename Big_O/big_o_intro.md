@@ -90,3 +90,9 @@ Certain types of sorting algorithms: Selection sort and insertion sort can also 
 1.  Every time the number of elements increase we increase the number of Operations quadratically.
     i.e: if we have 2 elements and
 2.  Interview questions usually ask you to solve something that is O(n\*2) and seeing if you can get it to O(n) or O(1).
+
+# Bing O Notation O(n!) or Factorial time - oh no!
+
+It usually means that we are adding a nested loop For every input we have which is bad
+
+1. If you see this fix it immediately.
